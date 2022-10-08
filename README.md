@@ -27,4 +27,4 @@ I'm a Front End Developer adept at creating logical and innovative websites inte
  <summary><h2>Abhijeet's Coding Journey</h2></summary>
    I started my journey as a naive electronics enthusiast with a passion to one day get a career in the field, simultaneously learning multiple aspects of the windows operating system, with a dream to build the most optimized windows image for personal use. My interest in development peaked, due to which I started learning about multiple languages. This lead me to the path, that I'm on today, to become a full stack developer by the end of 2022.
 
-[My Website](https:abhijeetsingla.netlify.app)
+[My Website](https://abhijeetsingla.netlify.app)
