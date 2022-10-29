@@ -23,7 +23,9 @@ I'm a Front End Developer adept at creating logical and innovative websites inte
 
 ### 📊 Stats
 
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetsingla&show_icons=true&theme=gruvbox)
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetsingla&hide=stars,contribs&show_icons=true&theme=gruvbox)
+
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetsingla&layout=compact&theme=gruvbox)
 
 <details>
  <summary><h2>Abhijeet's Coding Journey</h2></summary>
