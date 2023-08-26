@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-I'm a Front End Developer adept at creating logical and innovative websites interfaces. Proficient at optimizing websites, reducing complexity and relentless debugging.
+I'm a Back End Developer adept at creating logical and innovative websites interfaces. Proficient at optimizing websites, reducing complexity and relentless debugging.
 
 ---
 
